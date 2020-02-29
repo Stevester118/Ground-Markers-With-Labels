@@ -10,3 +10,5 @@ To enable the label feature, navigate to Runelite Config Menu  -> Ground Marker 
 The original functionality of pressing shift + right click to mark a tile is present.
 
 If working properly, a chat box field will open for the user to enter their label name after selecting a tile to mark. Simply press enter when finished to create the tile.
+
+Credits to Reasel for developing the original code used for the label functionality.
